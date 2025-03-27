@@ -72,7 +72,7 @@
             panel1.Controls.Add(txtuser);
             panel1.Controls.Add(btnLogin);
             panel1.Controls.Add(btnExit);
-            panel1.Location = new Point(228, 68);
+            panel1.Location = new Point(240, 58);
             panel1.Name = "panel1";
             panel1.Size = new Size(308, 340);
             panel1.TabIndex = 0;
