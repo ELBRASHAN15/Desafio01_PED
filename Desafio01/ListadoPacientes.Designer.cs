@@ -19,7 +19,7 @@
             }
             base.Dispose(disposing);
         }
-
+        //update v2
         #region Windows Form Designer generated code
 
         /// <summary>
@@ -54,9 +54,9 @@
             // 
             btnBuscar.BackColor = Color.DeepSkyBlue;
             btnBuscar.Cursor = Cursors.Hand;
-            btnBuscar.Location = new Point(520, 330);
+            btnBuscar.Location = new Point(507, 330);
             btnBuscar.Name = "btnBuscar";
-            btnBuscar.Size = new Size(94, 29);
+            btnBuscar.Size = new Size(94, 45);
             btnBuscar.TabIndex = 13;
             btnBuscar.Text = "Buscar";
             btnBuscar.UseVisualStyleBackColor = false;
@@ -123,9 +123,9 @@
             // 
             btnVista.BackColor = Color.LightSkyBlue;
             btnVista.Cursor = Cursors.Hand;
-            btnVista.Location = new Point(634, 330);
+            btnVista.Location = new Point(636, 330);
             btnVista.Name = "btnVista";
-            btnVista.Size = new Size(123, 29);
+            btnVista.Size = new Size(123, 45);
             btnVista.TabIndex = 20;
             btnVista.Text = "Cambiar vista";
             btnVista.UseVisualStyleBackColor = false;
@@ -135,9 +135,9 @@
             // 
             btnCaracteristicas.BackColor = Color.DeepSkyBlue;
             btnCaracteristicas.Cursor = Cursors.Hand;
-            btnCaracteristicas.Location = new Point(333, 330);
+            btnCaracteristicas.Location = new Point(317, 330);
             btnCaracteristicas.Name = "btnCaracteristicas";
-            btnCaracteristicas.Size = new Size(169, 29);
+            btnCaracteristicas.Size = new Size(169, 45);
             btnCaracteristicas.TabIndex = 21;
             btnCaracteristicas.Text = "Generar caracteristicas";
             btnCaracteristicas.UseVisualStyleBackColor = false;
